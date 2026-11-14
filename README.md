@@ -23,6 +23,7 @@ My work code is private. The repos below are things I build on my own time.
 | Project | What it does | Built with |
 |---|---|---|
 | [Midwest Civic Tools](https://github.com/Sushrut26/midwest-civic-tools) | Five free calculators for Indiana residents: benefits cliffs, SNAP eligibility, school vouchers, minimum wage and data-rights letters | Next.js 15, TypeScript, Playwright, Vercel |
+| [Demand Forecast Processor](https://github.com/Sushrut26/demand-forecast-processor) | Desktop app that takes an Excel workbook, grid-searches 8 forecasting models (ARIMA, SARIMAX, Holt-Winters, ETS and more) per category and writes the results back to Excel, behind Ed25519-signed time-limited licenses | Python, statsmodels, pandas, Tkinter, PyInstaller |
 | [RV Warranty Claim Packet Generator](https://github.com/Sushrut26/RV-Warranty-Claim-Packet-Generator-) | Turns a finished RV repair into a submit-ready PDF warranty packet, entirely in the browser with no data stored | Next.js, client-side PDF, GitHub Actions |
 | [MealLedger](https://github.com/Sushrut26/mealledger) | Photographs a menu once, then checks every receipt from that restaurant against it and flags price mismatches | Next.js PWA, Gemini vision API |
 | [Family Tree App](https://github.com/Sushrut26/family-tree-app) | Private family tree with branch-level permissions, audit logging and a written security runbook | Node, Express, Prisma, PostgreSQL, React |
